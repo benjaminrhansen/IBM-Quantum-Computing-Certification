@@ -3,6 +3,7 @@
 *.mov
 *.mp4
 *.mp3
+*.ds_store
 
 # Template
 # Byte-compiled / optimized / DLL files
