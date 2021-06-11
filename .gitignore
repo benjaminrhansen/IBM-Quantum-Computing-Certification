@@ -1,5 +1,8 @@
 # Custom commands
 *.pdf
+*.mov
+*.mp4
+*.mp3
 
 # Template
 # Byte-compiled / optimized / DLL files
